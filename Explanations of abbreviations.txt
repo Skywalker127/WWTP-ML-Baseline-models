@@ -1,0 +1,41 @@
+1. Explanations of abbreviations:
+   
+WWTP1:(15 in total)
+
+SS_in: Influent suspended solids (mg/L)
+COD_in: Influent chemical oxygen demand (mg/L)
+NH3-N_in: Influent ammonia nitrogen (mg/L)
+TP_in: Influent total phosphorus (mg/L)
+TN_in: Influent total nitrogen (mg/L)
+PH_in: Influent pH level
+SS: Effluent suspended solids (mg/L)
+COD: Effluent chemical oxygen demand (mg/L)
+NH3-N: Effluent ammonia nitrogen (mg/L)
+TP: Effluent total phosphorus (mg/L)
+TN: Effluent total nitrogen (mg/L)
+PH: Effluent pH level
+Outflow: Total effluent flow (m³/d)
+Inflow_2: Influent flow (Phase 2) (m³/d)
+Outflow_1: Effluent flow (Phase 1) (m³/d)
+Outflow_2: Effluent flow (Phase 2) (m³/d)
+
+WWTP2:(17 in total)
+
+COD_A1_in: Anaerobic stage influent COD (mg/L)
+NH3-N_in: Influent ammonia nitrogen (mg/L)
+COD_WA2: West Anoxic stage COD (mg/L)
+COD_EA2: East Anoxic stage COD (mg/L)
+TN_WA2: West Anoxic stage total nitrogen (mg/L)
+TN_EA2: East Anoxic stage total nitrogen (mg/L)
+COD_WO1: West Oxic stage COD (mg/L)
+COD_EO1: East Oxic stage COD (mg/L)
+NH3-N_WO1: West Oxic stage ammonia nitrogen (mg/L)
+NH3-N_EO1: East Oxic stage ammonia nitrogen (mg/L)
+TP_WO1: West Oxic stage total phosphorus (mg/L)
+COD: Effluent chemical oxygen demand (mg/L)
+TP: Effluent total phosphorus (mg/L)
+TN: Effluent total nitrogen (mg/L)
+Inflow: Total plant influent flow (m³/h)
+Precipitation: hourly rainfall depth (mm)
+Temperature: Wastewater or ambient temperature (°C)
+   
